@@ -1,3 +1,4 @@
 attack() {
-  move();
+  this.deltaplan('20m');
+  this.removeRows();
 }
