@@ -1,4 +1,3 @@
 play() {
   hello();
-  just();
 }

@@ -1,3 +1,5 @@
 attack() {
-  this.deltaplan('20m');
+  this.dove();
+  this.greenvich();
+  this.aldi();
 }
