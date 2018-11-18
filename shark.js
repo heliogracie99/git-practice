@@ -1,3 +1,4 @@
 attack() {
   move();
+  done();
 }
