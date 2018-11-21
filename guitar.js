@@ -5,7 +5,3 @@ play() {
 stop() {
   mediaServer.stop();
 }
-
-playback() {
-  mediaServer.playback();
-}
