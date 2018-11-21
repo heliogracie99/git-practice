@@ -1,3 +1,5 @@
 play() {
   hello();
+  hi();
+  bye();
 }
