@@ -1,5 +1,11 @@
 play() {
   hello();
-  hi();
-  bye();
+}
+
+stop() {
+  mediaServer.stop();
+}
+
+playback() {
+  mediaServer.playback();
 }
