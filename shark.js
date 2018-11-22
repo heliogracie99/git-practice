@@ -2,3 +2,7 @@ attack() {
   move();
   done();
 }
+
+boy(*) {
+
+}
