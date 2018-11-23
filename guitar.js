@@ -1,3 +1,7 @@
 play() {
   hello();
 }
+
+gosh() {
+
+}
